@@ -22,7 +22,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Audrey-Ella-xo/bing-search">
-    <img src="images/mLogo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/euqueme/toy-app/master/app/assets/images/mLogo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Let's get building</h3>
