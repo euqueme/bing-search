@@ -44,11 +44,15 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Contact](#contact)
+* [Usage](#usage)
+* [Automated Test](#automated-test)
+* [Author](#author)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+![Product Name Screen Shot][product-screenshot]
 
 This project it's about testing the `rest-client` Gem, so in the bing.rb file you'll find the most basic commands to do an HTTP GET request
 
@@ -67,18 +71,38 @@ If you want to test it you need to have Ruby installed in your computer and afte
 This project was built using these technologies.
 * Ruby 2.6.5
 * Ubuntu 18.4+
+* rest-client
 * Stickler
 * VsCode
 
+## Usage
+
+If you want to use the code you need to [download](https://github.com/euqueme/bing-search/archive/master.zip) or clone this repo in your computer:
+
+```git clone https://github.com/euqueme/bing-search.git```
+
+cd to the bing-search project directory and run it like this:
+
+```ruby bing.rb```
+
+<!-- AUTOMATED TEST -->
+## Automated Test
+
+> There are not Automated Test for this project yet
+
 <!-- CONTACT -->
-## Contact
+## Author
 
-Audrey Emmanuella Odiaka - [@o___audrey_xo](https://twitter.com/o___audrey_xo) - [@audrey-ella-xo](https://github.com/audrey-ella-xo) - anitaudrey@gmail.com
-<br />
-<br />
-María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
+👤 **Audrey Emmanuella Odiaka** 
+- Twitter: [@o___audrey_xo](https://twitter.com/o___audrey_xo) 
+- Github: [@audrey-ella-xo](https://github.com/audrey-ella-xo) 
+- Gmail: anitaudrey@gmail.com
 
-Project Link: [https://github.com/Audrey-Ella-xo/bing-search)
+👤 **María Eugenia Quemé** 
+
+- Twitter: [@MaruKK](https://twitter.com/MaruKK) 
+- Github: [@euqueme](https://github.com/euqueme) 
+- Gmail: euqueme@gmail.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -96,3 +120,4 @@ Project Link: [https://github.com/Audrey-Ella-xo/bing-search)
 [stars-url]: https://github.com/Audrey-Ella-xo/bing-search/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Audrey-Ella-xo/bing-search.svg?style=flat-square
 [issues-url]: https://github.com/Audrey-Ella-xo/bing-search/issues
+[product-screenshot]: screenshot.png
