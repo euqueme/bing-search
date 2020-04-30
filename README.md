@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Audrey-Ella-xo/bing-search">
+  <a href="https://github.com/euqueme/bing-search">
     <img src="https://raw.githubusercontent.com/euqueme/toy-app/master/app/assets/images/mLogo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -30,12 +30,12 @@
   <p align="center">
     This project is part of the Microverse Ruby on Rails curriculum!
     <br />
-    <a href="https://github.com/Audrey-Ella-xo/bing-search"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/equeme/bing-search"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Audrey-Ella-xo/bing-search/issues">Report Bug</a>
+    <a href="https://github.com/euqueme/bing-search/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Audrey-Ella-xo/bing-search/issues">Request Feature</a>
+    <a href="https://github.com/euqueme/bing-search/issues">Request Feature</a>
   </p>
 </p>
 
@@ -112,12 +112,12 @@ cd to the bing-search project directory and run it like this:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Audrey-Ella-xo/bing-search.svg?style=flat-square
-[contributors-url]: https://github.com/Audrey-Ella-xo/bing-search/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Audrey-Ella-xo/bing-search.svg?style=flat-square
-[forks-url]: https://github.com/Audrey-Ella-xo/bing-search/network/members
-[stars-shield]: https://img.shields.io/github/stars/Audrey-Ella-xo/bing-search.svg?style=flat-square
-[stars-url]: https://github.com/Audrey-Ella-xo/bing-search/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Audrey-Ella-xo/bing-search.svg?style=flat-square
-[issues-url]: https://github.com/Audrey-Ella-xo/bing-search/issues
+[contributors-shield]: https://img.shields.io/github/contributors/euqueme/bing-search.svg?style=flat-square
+[contributors-url]: https://github.com/euqueme/bing-search/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/euqueme/bing-search.svg?style=flat-square
+[forks-url]: https://github.com/euqueme/bing-search/network/members
+[stars-shield]: https://img.shields.io/github/stars/euqueme/bing-search.svg?style=flat-square
+[stars-url]: https://github.com/euqueme/bing-search/stargazers
+[issues-shield]: https://img.shields.io/github/issues/euqueme/bing-search.svg?style=flat-square
+[issues-url]: https://github.com/euqueme/bing-search/issues
 [product-screenshot]: screenshot.png
