@@ -47,6 +47,7 @@
 * [Usage](#usage)
 * [Automated Test](#automated-test)
 * [Author](#author)
+* [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
@@ -103,6 +104,16 @@ cd to the bing-search project directory and run it like this:
 - Twitter: [@MaruKK](https://twitter.com/MaruKK) 
 - Github: [@euqueme](https://github.com/euqueme) 
 - Gmail: euqueme@gmail.com
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/euqueme/Blogger-Rails/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
